@@ -13,5 +13,5 @@ This library is an attempt to implement as much of [Promises/A+][pa] as possible
 What does PreAlpha mean?
 ------------------------
 
-PreAlpha means I have no idea what I'm doing. I'm experamenting and not writing tests. Public API is so unstable I could make a
-tastless joke about how unstable it is.
+PreAlpha means I have no idea what I'm doing. I'm experimenting and not writing tests. Public API is so unstable I could make a
+tasteless joke about how unstable it is.
